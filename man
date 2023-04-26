@@ -1,0 +1,7 @@
+{
+  "guid": "",
+  "name": "Google Cloud Shell",
+  "commandline": "cmd.exe /k \"C:\\Program Files (x86)\\Google\\Cloud SDK\\cloud_env.bat\"",
+  "icon": "C:\\Program Files (x86)\\Google\\Cloud SDK\\cloud_platform_logo.ico",
+  "hidden": false
+}
